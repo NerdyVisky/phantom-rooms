@@ -1,6 +1,9 @@
-# Phantom-rooms
-Project for HackNITR3.0 by team Hypertext Assassins
-### [Click here](https://www.youtube.com/watch?v=vFHrPPz4haQ) to watch the demo of this project
+# Phantom Rooms
+### Project for HackNITR 3.0 
+#### UPDATE: Joint-winners for Rahee track at HackNITR 3.0
+## IMPORTANT NOTE : The project hosted on this repo is under continuous develpoment. For the hack submission click [here](https://github.com/neutr0nStar/phantom-rooms)
+### [Click here](https://www.youtube.com/watch?v=vFHrPPz4haQ) to watch the demo of this project.
+### [Click here](https://devfolio.co/submissions/phantom-rooms-0a94) to visit the full documentation of this project on Devfolio.
 
 ## What are Phantom Rooms?
 Phantom rooms is a web-based anonymous chat-room application that puts your privacy at the center. We don't collect your private data, let alone storing it in a database.
@@ -19,8 +22,3 @@ Set your avatar name, and select your tags of interest, we'll show you the rooms
 Follow Netiquetts, and you are good to go.
 
 ---
-
-## Team of Developers
-- Vishvesh Trivedi (Team Lead)[NerdyVisky](https://github.com/NerdyVisky)
-- Sneharsh Belsare (owner of this repo)
-- Ayush Daga [ayush572](https://github.com/ayush572)
